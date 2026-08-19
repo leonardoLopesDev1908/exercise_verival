@@ -1,6 +1,6 @@
-package com.example;
+package com.example.project;
 
-public class Laugh {
+public class Laughter {
     
     public char exercise(String entrada) {
         if (entrada == null) return 'N';
